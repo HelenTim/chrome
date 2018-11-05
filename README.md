@@ -3,4 +3,4 @@ VPN Chrome is Google Chromium based browser with built-in VPN capability to let 
 
 
 
-原文地址：https://github.com/free-vpn/chrome/releases
+原文地址：https://github.com/free-vpn/chrome/releases   (自注：这是下载地址)
